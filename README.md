@@ -7,7 +7,7 @@ FAQ](https://github.com/gto76/python-cheatsheet/wiki/Frequently-Asked-Questions)
 Hello, i'm unde de wata please help me there too much of it... burburubur
  
 Checkout my melody
-
+Just one... more fight... and I'll be history
 
 
 Contents -------- **&nbsp;&nbsp;&nbsp;** **1. Collections:** **&nbsp;** **[`List`](#list)**__,__ 
