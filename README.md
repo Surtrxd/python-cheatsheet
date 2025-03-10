@@ -6,6 +6,8 @@ Comprehensive Python Cheatsheet
 ![Monty Python](web/image_888.jpeg)
 
 
+
+
 Contents
 --------
 **&nbsp;&nbsp;&nbsp;** **1. Collections:** **&nbsp;** **[`List`](#list)**__,__ **[`Dictionary`](#dictionary)**__,__ **[`Set`](#set)**__,__ **[`Tuple`](#tuple)**__,__ **[`Range`](#range)**__,__ **[`Enumerate`](#enumerate)**__,__ **[`Iterator`](#iterator)**__,__ **[`Generator`](#generator)**__.__  
@@ -24,6 +26,8 @@ Main
 if __name__ == '__main__':      # Skips next line if file was imported.
     main()                      # Runs `def main(): ...` function.
 ```
+
+It's judt one of those days
 
 
 List
